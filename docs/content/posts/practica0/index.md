@@ -1,7 +1,7 @@
 ---
 title: "Practica0: Markdawn"
 date: 2025-02-21T10:21:16-08:00
-draft: true
+draft: false
 ---
 <!--Esto es un comentario-->
 
