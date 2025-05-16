@@ -1,3 +1,8 @@
+---
+title: "Practica0: Markdawn"
+date: 2025-02-21T10:21:16-08:00
+draft: false
+---
 identificar los elementos fundamentales de los lenguajes de
 programación: nombres, marcos de activación, bloques de alcance,
 administración de memoria, expresiones, comandos, control de secuencia
