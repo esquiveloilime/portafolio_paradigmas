@@ -275,4 +275,5 @@ Este análisis facilita la comprensión del código, la identificación y correc
 **Repositorio:**
 
 [https://github.com/esquiveloilime/portafolio_paradigmas/tree/master/bibliotecav2/src](https://github.com/esquiveloilime/portafolio_paradigmas/tree/master/bibliotecav2/src)
+
 [https://esquiveloilime.github.io/portafolio_paradigmas/posts/practica2/](https://esquiveloilime.github.io/portafolio_paradigmas/posts/practica2/)
